@@ -1,0 +1,19 @@
+{
+    "id": "header-data-4",
+    "section": "header-4",
+    "button": {
+        "id": 1,
+        "content": "CONTACT DFST",
+        "path": "#contacts",
+        "className": "no-shadow"
+    },
+    "logo": [
+        {
+            "src": "../images/defi/logo.png"
+        },
+        {
+            "src": "../images/defi/logo.png"
+        }
+    ],
+    "slogan": "Blockchain, AI and NFT solutions"
+}

@@ -1,0 +1,404 @@
+{
+    "title": "defi-home-white",
+    "content": [
+        {
+            "id": "defi-home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "zkCloudWorker"
+                },
+                {
+                    "content": "A fast cloud proving service for zkApps"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "A fast cloud proving service for zkApps"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../../../data/images/defi/zkCloudWorker.png",
+                    "alt": "zkCloudWorker"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "https://t.me/dfst_bot",
+                    "content": "CONTACT US"
+                }
+            ]
+        },
+        {
+            "id": "defi-home-about",
+            "section": "about-section",
+            "section_title": {
+                "title": "About Me",
+                "subtitle": "Visit my portfolio & Hire me"
+            },
+            "texts": [
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus adipisci labore sit veritatis vero tempore sequi at sed facere dolore. Quae obcaecati ius quasi doloribus illum minus fugit."
+                },
+                {
+                    "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit,"
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "DOWNLOAD MY CV"
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/about/about-3.jpg"
+                }
+            ]
+        },
+        {
+            "id": "defi-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "Fitness Provide",
+                "subtitle": "Features"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Fitness Plans",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "Healthy Recipes",
+                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "FItness Book",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Tv",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "defi-home-parallax",
+            "section": "parallax-section",
+            "images": [
+                {
+                    "src": "../images/bg/bg-image-10.jpg"
+                }
+            ]
+        },
+        {
+            "id": "defi-home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Best Work",
+                "subtitle": "Look My project & JUDGE"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provice for Design",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "stringList": [
+                        "Responsive design",
+                        "Quiz builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-07.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "The services provice for Development",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "items": [
+                        "Device maintain",
+                        "Theme builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-08.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "The services provice for Android user",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "items": [
+                        "Customer satisfaction",
+                        "Quiz builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-09.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "defi-home-client",
+            "section": "client-section",
+            "section_title": {
+                "title": "Our Trusted Client",
+                "subtitle": "Visit my Client"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Marth Smiths",
+                    "images": [
+                        {
+                            "src": "../images/client/png/brand-05.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Sumith Saha",
+                    "images": [
+                        {
+                            "src": "../images/client/png/brand-02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "John Due",
+                    "images": [
+                        {
+                            "src": "../images/client/png/brand-06.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Janen Jara",
+                    "images": [
+                        {
+                            "src": "../images/client/png/brand-05.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Jara Sultana",
+                    "images": [
+                        {
+                            "src": "../images/client/png/brand-02.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "Sr Deirector",
+                    "images": [
+                        {
+                            "src": "../images/client/png/brand-06.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "defi-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "@alamin",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@mr_rasel",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-1.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "@Kabir",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-3.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "@Tuhin",
+                    "designation": "Engineer",
+                    "description": "@mr_rasel Ypur plaser well for your template from <span>@mr_faruk </span> There is no is best issueusing it too. It'll really speed up the design and development process :).",
+                    "images": [
+                        {
+                            "src": "../images/client/testimonial-2.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "defi-home-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "My Pricing",
+                "subtitle": "Pricing"
+            },
+            "texts": [
+                {
+                    "content": "Use the free templates with your whole team or choose a premium. ith your whole team or choose a premium."
+                },
+                {
+                    "content": "Get the bundle and get lifetime support and one year updates."
+                }
+            ],
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "title": "static",
+                    "subtitle": "4 WEEK TRAINING – 30 MIN/DAY",
+                    "is_featured": false,
+                    "price": "$30",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 demo templates.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Fully responsive.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Figma",
+                            "available": false
+                        },
+                        {
+                            "id": 4,
+                            "title": "Spacial offer",
+                            "available": false
+                        },
+                        {
+                            "id": 5,
+                            "title": "All Demoes",
+                            "available": false
+                        }
+                    ],
+                    "orderLink": "#!"
+                },
+                {
+                    "id": "pricing-join",
+                    "title": "JOIN NOW",
+                    "subtitle": "4 WEEK TRAINING – 50 MIN/DAY",
+                    "is_featured": false,
+                    "price": "$50",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "2 demo templates.",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Fully responsive.",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Spacial offer",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "All Demoes",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!"
+                }
+            ]
+        },
+        {
+            "id": "defi-home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        },
+        {
+            "id": "defi-home-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact us",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/defi/logobig.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "A fast cloud proving service for zkApps"
+                },
+                {
+                    "content": "Tell us what we can develop for you."
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Connect with us via Telegram bot or the contact form."
+                }
+            ]
+        }
+    ]
+}
