@@ -43,6 +43,14 @@ module.exports = {
     },
     plugins: [
         {
+            resolve: `gatsby-plugin-google-gtag`,
+            options: {
+                trackingIds: [
+                    process.env.GATSBY_GOOGLE_ID, // Google Analytics / GA
+                ],
+            },
+        },
+        {
             resolve: "gatsby-plugin-sass",
             options: {
                 useResolveUrlLoader: {
