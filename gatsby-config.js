@@ -18,7 +18,7 @@ module.exports = {
             {
                 id: 1,
                 title: "github",
-                path: "https://github.com/dfstio",
+                path: "https://github.com/zkcloudworker",
                 icon: "Github.png",
             },
             {
