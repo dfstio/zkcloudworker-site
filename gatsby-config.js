@@ -11,7 +11,7 @@ module.exports = {
         siteLanguage: "en",
         image: "zkCloudWorker.png",
         titleTemplate: "inbio",
-        twitterUsername: "@dfst_io",
+        twitterUsername: "@zkCloudWorker",
         getform_url:
             "https://getform.io/f/a80be20b-8b80-40cd-adc9-5e317feb719d",
         socials: [
@@ -24,7 +24,7 @@ module.exports = {
             {
                 id: 2,
                 title: "X",
-                path: "https://twitter.com/dfst_io",
+                path: "https://x.com/zkCloudWorker",
                 icon: "X.png",
             },
             {
